@@ -1,12 +1,31 @@
-# React + Vite
+# React + Vite Based Color Picker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React component that allows users to pick a color and see the selected color displayed in real-time.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Select a color using an HTML color input.
+- Displays the selected color as a background.
+- Shows the hexadecimal value of the selected color.
 
-## Expanding the ESLint configuration
+## Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+When you select a color, the display updates dynamically Selected Color: #FFFFFF
+
+The background of the display area changes to match the selected color.
+
+## Installation
+
+1. Make sure you have a React project set up. You can create one using Vite or Create React App:
+
+
+# Using Vite
+npm create vite@latest my-app
+cd my-app
+npm install
+npm run dev
+
+# Using Create React App
+npx create-react-app my-app
+cd my-app
+npm start
