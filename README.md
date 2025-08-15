@@ -36,6 +36,6 @@ npm run dev
 
 <img width="466" height="484" alt="image" src="https://github.com/user-attachments/assets/7bc248d8-5432-45f7-ad3a-e3bdb31b9636" />
 <br>
-<mg width="467" height="475" alt="image" src="https://github.com/user-attachments/assets/8f349046-86bd-4a65-bd89-ea8e06147ea5" />
+<img width="467" height="475" alt="image" src="https://github.com/user-attachments/assets/8f349046-86bd-4a65-bd89-ea8e06147ea5" />
 
 
