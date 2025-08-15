@@ -26,6 +26,16 @@ npm install
 npm run dev
 
 # Using Create React App
-npx create-react-app my-app
-cd my-app
-npm start
+- npx create-react-app my-app
+- cd my-app
+- npm start
+
+# Output
+
+<img width="641" height="479" alt="image" src="https://github.com/user-attachments/assets/aea350f7-a8fd-4275-b3d1-13c9b391cef8" />
+
+<img width="466" height="484" alt="image" src="https://github.com/user-attachments/assets/7bc248d8-5432-45f7-ad3a-e3bdb31b9636" />
+<br>
+<mg width="467" height="475" alt="image" src="https://github.com/user-attachments/assets/8f349046-86bd-4a65-bd89-ea8e06147ea5" />
+
+
